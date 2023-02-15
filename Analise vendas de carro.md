@@ -1,6 +1,6 @@
 
  * [SQL](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
-
+ 
 ``` SQL 
 -- (Query 1) Receita, leads, conversão e ticket médio mês a mês
 -- Colunas: mês, leads (#), vendas (#), receita (k, R$), conversão (%), ticket médio (k, R$)
