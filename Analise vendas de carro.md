@@ -32,7 +32,7 @@ with
 	)
 -- junção das duas queries anteriores para finalização da conversão dos leads e ticket médio 
 select 
-	leads.visit_page_month as "mês",
+	leads.visit_page_month as "mês", 
 	leads.visit_page_count as "leads (#)",
 	payments.paid_count as "vendas (#)",
 	(payments.receita/1000) as "receita (K, R$)",
