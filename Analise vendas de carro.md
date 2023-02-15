@@ -135,5 +135,4 @@ order by dia_semana
 ```
 ![query5](https://user-images.githubusercontent.com/124627259/219201799-3c5d7393-0093-4de3-a0cc-1f3afd8d06be.PNG)
 
-[Projeto+1+-+Dashboard+de+vendas.xlsx](https://github.com/paulodatas/SQL/files/10748585/Projeto%2B1%2B-%2BDashboard%2Bde%2Bvendas.xlsx)
 
