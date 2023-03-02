@@ -30,8 +30,19 @@ Caso queira você pode baixar o arquivo .xlsx 👉[Baixar dashboard + documenta�
 
 ## Insights
 * A receita da empresa cresceu bem nos ultimos 5 meses e o ticket médio teve poucas oscilações durante os mesmo 5 meses
-* A taxa de conversão de leads cresceu conforme o número de visitas á pagina também aumentam
+* A taxa de conversão de leads cresceu conforme o número de visitas á pagina também aumentaram
 * As marcas Fiat, Chevrolet, volkswagen, Ford e Renault foram as 5 marcas mais vendidas do mês
 * Kiyoko cileidi jery ltda foi a loja que mais vendeu no mês 
 * Durante a semana são os dias em que o site mais recebe visitas, domingo é o dia da semana que menos recebe
 * O estado de são Paulo foi o que mais teve vendas no mês
+
+## Minha conclusão para o tomador de decição
+* Quanto mais pessoas novas entram na pagina mais elas são convertidas em clientes, podendo ser avaliado um trafego pago que 
+traga mais visitantes novos para a pagina. 
+* Notando que as maiores visitas ocorrem durante a semana, fazer o trafego no mesmo período, levando em consideração que é onde
+os clientes tem mais interesses em busca por veiculos, podendo trazer uma maior conversão desses leads.
+* Manter sempre em catálogo as 5 marcas de carro mais vendidas do site, atualmente são as marcas mais procuradas pelos clientes
+* Temos uma grande diferença de vendas no estado se São Paulo, pode ser feita uma analise ao finalizar a venda com o cliente de SP, o que 
+o motivou a fechar a compra dele conosco, para que possivelmente se possa replicar a mesma abordagem de venda para os demais clientes
+de outros estados.
+  
